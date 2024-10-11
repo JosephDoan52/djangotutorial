@@ -2,5 +2,5 @@
 ## Part 1
 Django version check 
 ```
-$ python3 -m django --version
+python3 -m django --version
 ```
